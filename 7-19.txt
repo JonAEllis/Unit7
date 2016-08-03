@@ -1,0 +1,3 @@
+Alert is called and alerts "Hello"
+The function "alert" is re-assigned to the value "2", which is no longer a function
+Script attempts to call "2" as a function, which causes an error

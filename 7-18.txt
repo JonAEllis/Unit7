@@ -1,0 +1,5 @@
+A function shout is created
+The function shout is called
+The variable message is created within the scope of the shout function
+Shout alerts
+Alert can't find variable "message" because it can't be found in that scope

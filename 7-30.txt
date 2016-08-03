@@ -1,0 +1,4 @@
+(a) It produces a new Date object with the current date and time as its default values
+(b) It produces a new Date object with a year, month, and day specified
+(c) That produces a number
+
